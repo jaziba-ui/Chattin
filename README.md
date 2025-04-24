@@ -24,6 +24,10 @@ A simple real-time chat application built with **Node.js**, **Express**, and **S
 
 
 
+https://github.com/user-attachments/assets/e62316ae-87ec-4a49-8f24-de7bd229617d
+
+
+
 ---
 
 ## 📦 Installation
